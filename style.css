@@ -1,0 +1,82 @@
+
+
+body{
+    text-align: center;
+}
+#contact{
+    text-align: left;
+}
+hr{
+    width:400px;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey;
+}
+.travel1{
+    border: 1px solid #4c5259;
+    padding-left: 0;
+    padding-right: 0;
+    float: none;
+}
+.travel1 img{
+    width: 100%;
+}
+.travel1 h3, .travel1 h4{
+    margin-left: 20px;
+}
+.travel1 hr{
+    width: 230px;
+}
+.movies1{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius: 10px;
+    width:100%;
+    margin-bottom:15px;
+    display:inline-block;
+}
+.movies1 i{
+    float: right;
+}
+.env1{
+    margin-top: 13px;
+}
+.env1 h3{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.env1 img{
+    border-radius: 25px;
+}
+.env p{
+    margin-top: 10px;
+}
+.mark{
+    line-height: 2;
+}
+.modal-body{
+    text-align: center;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.img_modal{
+    display: inline-block;
+}
+.modal-content{
+    margin-top: 100px;
+}
